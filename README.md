@@ -20,7 +20,7 @@ The **Airline Reservation System** is a Java-based desktop application that allo
 - **Oracle Database** – Data storage.
 
 ## 🚀 Installation & Setup
-### 1 **Prerequisites**
+### 1. **Prerequisites**
 Ensure you have the following installed:
 - Java JDK (17 or above)
 - Oracle Database (or MySQL if adapted)
@@ -28,7 +28,7 @@ Ensure you have the following installed:
 - An IDE like IntelliJ IDEA or Eclipse
 
 
-### 2 **Database Setup**
+### 2. **Database Setup**
 1. Open **Oracle SQL Developer** (or MySQL Workbench if applicable).
 2. Run the following SQL commands to create the database and tables:
 ```sql
@@ -49,7 +49,7 @@ CREATE TABLE ADMIN_TABLE (
 INSERT INTO ADMIN_TABLE VALUES (1, 'admin123');
 ```
 
-### 3 **Run the Application**
+### 3. **Run the Application**
 1. Open the project in your preferred IDE.
 2. Compile and run the `Main.java` file:
 ```sh
